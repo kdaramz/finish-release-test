@@ -1,1 +1,3 @@
 # finish-release-test
+
+과연 테스트가 잘 될 것인지...
